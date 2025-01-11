@@ -34,3 +34,11 @@ public class SimpleInterestCalculator {
         scanner.close();
     }
 }
+
+OUTPUT:
+Enter the principal amount: 1000
+Enter the rate of interest (in %): 5
+Enter the time (in years): 2
+The Simple Interest is: 100.0
+
+
